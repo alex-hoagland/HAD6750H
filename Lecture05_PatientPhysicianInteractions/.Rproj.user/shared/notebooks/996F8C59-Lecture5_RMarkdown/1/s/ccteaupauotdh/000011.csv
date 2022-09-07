@@ -1,0 +1,9 @@
+"0",""
+"0","    # Summary table of all baseline outcomes across groups"
+"0",""
+"0","    sumtable(data=mydata,group=""coverage"","
+"0","             vars=c(""age"",""sex"",""bmi"",""children"",""smoker"",""expenses""),"
+"0","             digits=2,group.test=T)"
+"2","Error in sumtable(data = mydata, group = ""coverage"", vars = c(""age"", ""sex"",  : 
+  could not find function ""sumtable""
+"

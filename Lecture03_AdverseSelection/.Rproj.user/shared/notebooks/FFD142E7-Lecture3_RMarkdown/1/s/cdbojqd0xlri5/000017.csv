@@ -1,0 +1,11 @@
+"0","# Give msummary a list() of the models we want in our table
+# and save to a file using the here() library
+# Note that you select the file type (html, pdf, etc.)
+# (see help(msummary) for other options)
+msummary(list(""Simple""=m1,""Full""=m2),
+         stars=TRUE,
+         output= here(""Lecture4"", 'regression_table.html')) 
+"
+"2","Error in sanitize_output(output) : 
+  Assertion on 'output' failed: Path to file (dirname) does not exist: 'C:/Users/alexh/Dropbox/Teaching/HAD5744/2022_Fall/HAD5744_2022F_Github/Lecture03_MultivariateOLS1/Lecture4' of 'C:\Users\alexh\Dropbox\Teaching\HAD5744\2022_Fall\HAD5744_2022F_Github\Lecture03_MultivariateOLS1\Lecture4\regression_table.html'.
+"

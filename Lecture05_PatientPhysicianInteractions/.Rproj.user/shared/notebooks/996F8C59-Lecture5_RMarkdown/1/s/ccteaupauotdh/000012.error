@@ -1,0 +1,1 @@
+{"frames":[],"message":"Error in sumtable(data = mydata, group = \"coverage\", vars = c(\"age\", \"sex\",  : \n  could not find function \"sumtable\"\n"}
