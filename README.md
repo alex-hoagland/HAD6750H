@@ -21,5 +21,7 @@ Instructor:
 
 ## Acknowledgements
 These materials borrow heavily from previous iterations of this course and other versions of it taught around the globe. In particular, I am grateful to the following individuals for sharing their course materials with me for the current iteration: 
-* Audrey Laporte
-* Albert Ma
+* [Randy Ellis](https://blogs.bu.edu/ellisrp/)
+* [Audrey Laporte](https://ihpme.utoronto.ca/faculty/audrey-laporte/)
+* [Albert Ma](https://people.bu.edu/ma/)
+* [Jonathan Zhang](https://t.co/9aTiSlsRhl) 
