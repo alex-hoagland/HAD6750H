@@ -1,7 +1,7 @@
-# HAD6750_2023W
+# HAD6750 Course Materials
 
 Course materials for Advanced Health Economics &amp; Policy Analysis II
-University of Toronto IHPME -- Winter 2023
+University of Toronto IHPME -- latest iteration Winter 2025
 
 Instructor: 
 
